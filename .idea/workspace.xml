@@ -471,6 +471,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="403" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1620274548454" />
+    <state x="244" y="0" key="CommitChangelistDialog2" timestamp="1620278296111">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="244" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1620278296111" />
+    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1620278070121">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1620278070121" />
+    <state x="473" y="230" key="Github.CreatePullRequestDialog" timestamp="1620278186342">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="473" y="230" key="Github.CreatePullRequestDialog/0.0.1366.728@0.0.1366.728" timestamp="1620278186342" />
     <state x="499" y="84" key="RollbackChangesDialog" timestamp="1620274610610">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -479,5 +491,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1620277011379" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1620278311684">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1620278311684" />
+    <state x="413" y="152" key="git4idea.merge.GitPullDialog" timestamp="1620278284450">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="152" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1620278284450" />
   </component>
 </project>
